@@ -20,6 +20,10 @@ O estado do modo escuro é salvo no `localStorage` do navegador, garantindo que 
 - **JavaScript (ES6)** para controlar o estado e salvar localmente  
 
 ---
+## Projeto Online:
+https://devkassio.github.io/DarkModeToggle/
+
+---
 
 ## 📷 Prévia do projeto  
 
